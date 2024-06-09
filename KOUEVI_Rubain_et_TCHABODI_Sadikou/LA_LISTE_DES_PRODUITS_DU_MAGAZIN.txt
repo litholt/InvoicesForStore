@@ -1,0 +1,93 @@
+***************LA_LISTE_DES_PRODUITS_DU_MAGAZIN****************
+Designation : FAN
+CodeProduit : 24
+PrixU : 500
+
+Designation : HP
+CodeProduit : 24
+PrixU : 247
+
+Designation : MB
+CodeProduit : 45
+PrixU : 77
+
+Designation : Z
+CodeProduit : 47
+PrixU : 7
+
+Designation : X
+CodeProduit : 47
+PrixU : 8
+
+Designation : A
+CodeProduit : 14
+PrixU : 41
+
+Designation : ABALO
+CodeProduit : 145
+PrixU : 5000
+
+Designation : KOIF
+CodeProduit : 24
+PrixU : 7000
+
+Designation : imag
+CodeProduit : 1
+PrixU : 4
+
+Designation : lop
+CodeProduit : 58
+PrixU : 47
+
+Designation : bonbon
+CodeProduit : 21
+PrixU : 5000
+
+Designation : riz
+CodeProduit : 45
+PrixU : 200
+
+Designation : koko
+CodeProduit : 35
+PrixU : 1000
+
+Designation : mais
+CodeProduit : 4
+PrixU : 5
+
+Designation : ooo
+CodeProduit : 15
+PrixU : 254
+
+Designation : fan
+CodeProduit : 12
+PrixU : 500
+
+Designation : EU
+CodeProduit : 45
+PrixU : 99
+
+Designation : URU5U
+CodeProduit : 9
+PrixU : 9
+
+Designation : ULO
+CodeProduit : 478
+PrixU : 99
+
+Designation : 83Y5
+CodeProduit : 54
+PrixU : 22
+
+Designation : jus
+CodeProduit : 45
+PrixU : 500
+
+Designation : aricot
+CodeProduit : 25
+PrixU : 255
+
+Designation : yuj
+CodeProduit : 1
+PrixU : 5
+
